@@ -1,0 +1,66 @@
+.div{
+    height:100%;
+    width:100%;
+    display:flex;
+  }
+.div1{
+    height:100%;
+    width:40%;
+    background-color:rgb(38, 37, 37);
+  }
+  .logo
+  {
+    margin-left:30px;
+    margin-top: 30px;
+  }
+  .logodiv
+  {
+    display:flex;
+  }
+  .img1{
+    margin-left:40px;
+    margin-right:20px;
+    margin-top: 40px;
+  }
+  .dis{
+    color:white;
+    margin-top:30px;
+  }
+.div2{
+    height:100%;
+    width:60%;
+    background-color:white;
+  }
+  .form{
+  margin:30px 0px 0px 200px;
+  }
+  .text1{
+  height:50px;
+  width:390px;
+  border-radius: 5px 5px 5px 5px;
+  margin:30px 0px 0px 0px;
+  
+  border:solid 2px gainsboro;
+  }
+  .btn1
+  {
+    height:50px;
+    width:330px;
+    border-radius: 25px 25px 25px 25px;
+    margin-top:40px;
+    margin-left:35px;
+    margin-bottom:20px;
+    border-color:#ff5c33;
+    color:white;
+    background-color: #ff5c33;
+  }
+  .img2{
+    margin-top:-30px;
+    margin-left:350px;
+  }
+  .img3{
+    margin-top:20px;
+    margin-left:350px;
+    border-radius:60px;
+    border:solid 2px #c2c2a3;
+  }

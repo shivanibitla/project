@@ -1,0 +1,60 @@
+.p1{
+    padding-top:10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.main{
+    margin: 0px 150px 0px 400px;
+    background-image: url("mountain1.jpg");
+    height:100%;        
+}
+.logo
+  {
+    /*margin-left:90px;
+    margin-top:-20px;*/
+    background-color:black;
+    text-align:center;
+  }
+.form1{
+    margin:40px;
+    height:550px;
+    width:440px;
+    background-color:white;
+}
+.text{
+    height:50px;
+    width:400px;
+    margin:15px;
+    border-radius:4px;
+    background-color: rgba(229, 227, 227, 0.993);
+    border:none;
+}
+.text1{
+    height:50px;
+    width:400px;
+    margin-left:15px;
+    margin-bottom:10px;
+    border-radius:4px;
+    background-color:rgba(229, 227, 227, 0.993);
+    border:none;
+}
+.p2{
+    color:#ff5c33;
+    font-size: 30px;
+    padding:20px 0px 0px 15px;
+    margin-top:-30px;			
+}
+.p3
+{
+    color:rgb(180, 176, 176);
+    font-size: 15px;
+    margin-left:15px;
+}
+.btn{
+    height:50px;
+    width:400px;
+    margin:5px 15px;
+    background-color:#ff5c33;
+    border:solid 2px #ff5c33;
+}
